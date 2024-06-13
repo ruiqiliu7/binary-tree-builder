@@ -18,7 +18,7 @@ This project is a Binary Tree Builder application built with Django for the back
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/ruiqiliu7/binary-tree-builder.git
-    cd binary-tree-builder/BinaryTreeBuilderProject
+    cd binary-tree-builder
     ```
 
 2. **Create a Virtual Environment**:
